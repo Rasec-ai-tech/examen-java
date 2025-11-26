@@ -1,6 +1,5 @@
 
-# 1\. Garment Store Management in Java (Translation of the first README)
-
+# 1\. Garment Store Management in Java
 This project is a simple Java application designed to simulate the management of a clothing store. It uses an object-oriented structure to represent **garments**, purchase **baskets (carts)**, and the **store** itself.
 
 -----
